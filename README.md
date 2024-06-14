@@ -1,5 +1,7 @@
 # 💌 Auto-Newsletter 💌
 
+<img width="750" alt="Screenshot 2024-06-14 at 7 25 40 PM" src="https://github.com/ganeshasapu/auto-newsletter/assets/62232361/633ac923-3e9f-4533-9ce0-1fef1c5919b0">
+
 ## 🎉 Overview
 Welcome to Auto-Newsletter! Tired of missing out on your favorite YouTube channels? This nifty tool gathers all the latest videos from your subscriptions and sends you a delightful email summary. No more endless scrolling—just pure YouTube joy delivered straight to your inbox! 📬✨
 
